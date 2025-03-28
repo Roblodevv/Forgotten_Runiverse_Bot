@@ -33,3 +33,5 @@ Available plans:
 ## 📬 Support
 - Technical questions: [Discord](https://discord.gg/Tj6fvJTm)
 - Urgent help: [@roblodev в Telegram](https://t.me/roblodev)
+
+<img src="assets/soft.png" width="150">
