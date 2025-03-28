@@ -17,6 +17,11 @@
 3. Run `RuniverseBot.exe`
 4. Enter your license key
 
+
+
+<img src="assets/soft.jpg" width="600">
+
+
 ## 💰 Subscription
 Available plans:
 - 24 hours - $8
@@ -34,4 +39,4 @@ Available plans:
 - Technical questions: [Discord](https://discord.gg/Tj6fvJTm)
 - Urgent help: [@roblodev в Telegram](https://t.me/roblodev)
 
-<img src="assets/soft.png" width="150">
+
