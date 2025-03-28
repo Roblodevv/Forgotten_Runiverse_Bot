@@ -29,6 +29,6 @@ Available plans:
 - Works only on Windows 10/11
 - License is hardware-bound
 
-## 📬 Поддержка
+## 📬 Support
 - Technical questions: [Discord](https://discord.gg/Tj6fvJTm)
 - Urgent help: [@roblodev в Telegram](https://t.me/roblodev)
