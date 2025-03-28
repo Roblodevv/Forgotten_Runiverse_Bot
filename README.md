@@ -22,7 +22,7 @@ Available plans:
 - 3 days - $16
 - 1 week - $25
 
-**Purchase:** [Telegram @kul1ght](https://t.me/roblodev) | [Discord](https://discord.gg/Tj6fvJTm)
+**Purchase:** [Telegram @roblodev](https://t.me/roblodev) | [Discord](https://discord.gg/Tj6fvJTm)
 
 ## ⚠️ Important
 - The bot does not modify the game client
