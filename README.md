@@ -12,7 +12,7 @@
 - Secure connection via ChromeDriver
 
 ## ⚙️ Installation
-1. Download the latest version from [Releases](https://github.com/Roblodevv/Forgotten_Runiverse_Bot)
+1. Download the latest version from [Releases](https://github.com/Roblodevv/Forgotten_Runiverse_Bot) or [Mega](https://mega.nz/folder/VkQjSZrY#voCCSclwSRb4XgfF8i-NmQ)
 2. Download the latest version from [Chromedriver](https://googlechromelabs.github.io/chrome-for-testing/)
 3. Run `RuniverseBot.exe`
 4. Enter your license key
